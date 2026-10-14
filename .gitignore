@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.dSYM/
+
+# Large simulation intermediate arrays
+*.npy
+
+# Ocean Current NetCDF files:
+# demo_eddies.nc is generated automatically via: python3 scripts/make_test_nc.py data
+data/*.nc
+!data/gulf_stream_hycom.nc
+data/oscar/
+data/raw/
+
+# Python & OS
+__pycache__/
+*.pyc
+.DS_Store

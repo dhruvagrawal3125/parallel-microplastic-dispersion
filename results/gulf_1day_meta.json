@@ -1,0 +1,16 @@
+{
+  "field": "gulf_stream_hycom.nc",
+  "eps": 0,
+  "spherical": true,
+  "nx": 375,
+  "ny": 188,
+  "nt": 2,
+  "extent": [285.039978027, 314.959960938, 30, 44.9599990845],
+  "dt": 3600,
+  "steps": 24,
+  "particles": 1000000,
+  "alive": 987495,
+  "beached": 179,
+  "out": 12326,
+  "traj_every": 1
+}

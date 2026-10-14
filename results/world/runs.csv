@@ -1,0 +1,3 @@
+field,eps,nx,ny,nt,spherical,particles,steps,dt,release,mode,layout,schedule,chunk,threads,t_median,t_min,t_max,t_all,throughput,speedup,busy_mean,busy_std,busy_cv,busy_max_over_mean,busy_all,drift_max,drift_mean,state_mismatch,alive,beached,out,truth_err_mean,truth_err_max
+oscar_global_2025-12-01_31d.nc,0,1440,719,31,1,2300100,720,3600,file,serial,soa,,,1,83.825722,83.825722,83.825722,83.825722,19756131.6,,,,,,,,,,2191030,109070,0,,
+oscar_global_2025-12-01_31d.nc,0,1440,719,31,1,2300100,720,3600,file,parallel,soa,guided,0,10,14.145815,14.145815,14.145815,14.145815,117071516,5.92583194,14.0594562,0.0479433661,0.00341004414,1.00297614,14.101299;14.0826883;14.0645232;14.0487437;14.0740495;13.9224222;14.0624092;14.0685713;14.094255;14.0756001,0,0,0,2191030,109070,0,,

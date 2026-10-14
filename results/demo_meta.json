@@ -1,0 +1,16 @@
+{
+  "field": "demo_eddies.nc",
+  "eps": 0,
+  "spherical": true,
+  "nx": 241,
+  "ny": 129,
+  "nt": 61,
+  "extent": [-70, -40, 28, 44],
+  "dt": 3600,
+  "steps": 720,
+  "particles": 1000000,
+  "alive": 929894,
+  "beached": 11161,
+  "out": 58945,
+  "traj_every": 3
+}

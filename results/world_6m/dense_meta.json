@@ -1,0 +1,16 @@
+{
+  "field": "oscar_global_2025-07-01_184d.nc",
+  "eps": 0,
+  "spherical": true,
+  "nx": 1440,
+  "ny": 719,
+  "nt": 184,
+  "extent": [0, 360, -89.75, 89.75],
+  "dt": 3600,
+  "steps": 4392,
+  "particles": 995212,
+  "alive": 840630,
+  "beached": 154582,
+  "out": 0,
+  "traj_every": 0
+}
